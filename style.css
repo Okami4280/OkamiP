@@ -21,6 +21,16 @@ h5 {
   font-family: "Roboto Slab", serif;
 }
 
+h6 {
+  padding: 8px;
+  background: rgba(179, 231, 152, 0.8);
+  border-radius: 8px;
+  margin: 0;
+  font-size: 64px;
+  font-family: "Roboto Slab", serif;
+
+}
+  
 p {
   line-height: 1.5;
 }
