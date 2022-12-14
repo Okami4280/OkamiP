@@ -287,7 +287,7 @@ section {
 
 .section-heading:hover {
   padding: 4px 48px;
-  background: red;
+  background: rgb(179, 231, 152, 0.8);;
 }
 
 /* Section Source */
@@ -342,7 +342,7 @@ section {
 }
 
 .btn-readmore:hover {
-  background: rgb(255, 0, 0);
+  background: rgb(179, 231, 152, 0.8);
   text-decoration: none;
   padding: 8px 64px 8px 24px;
   color: white;
